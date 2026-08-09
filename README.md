@@ -1,4 +1,4 @@
-# OpenAI Codex CLI 一键安装程序（国内网络优化版，纯 C#）
+# OpenAI Codex CLI 一键安装程序（国内网络优化版）
 
 Windows 上绕过网络限制，一键安装 OpenAI Codex CLI 并配置聚合 API（OpenAI 兼容端点）。
 
