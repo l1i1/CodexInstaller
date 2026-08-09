@@ -18,7 +18,6 @@ CodexInstaller.exe -ApiKey sk-xxxxxx
 ```
 
 ![运行效果](img/runpic.png)
-![桌面截图](img/desktoppic.png)
 
 ## 文件
 
